@@ -1,4 +1,4 @@
-openai-agents-python
+openai-agents
 google-generativeai
 azure-identity
 azure-mgmt-resource
