@@ -1,6 +1,24 @@
 # Azure Natural Language Agent
 
-This agent allows you to query Azure resources in plain English using OpenAI's Agent SDK and Google Gemini.
+
+This project allows you to interact with **Azure resources** using **plain English** through the **OpenAI's Agent SDK** and **Google Gemini**. It provides an easy-to-use interface for querying **Azure Key Vaults**, **Resource Groups**, and other Azure resources in a simple, natural language format.
+
+## Features:
+- Use natural language to query **Azure resources**.
+- Integrates **OpenAI's Agent SDK** and **Google Gemini LLM** for natural language processing.
+- Fetch **Azure resources** like Key Vaults and Resource Groups through **Azure SDK for Python**.
+- Runs via **CLI** and an interactive **Streamlit Web Interface**.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Python 3.7+ 
+- **Azure CLI** for authentication (Follow the installation guide: [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli))
+- **Streamlit** for the web interface (Run `pip install streamlit` if needed)
+- **Google Gemini API Key** (Sign up for Gemini API access)
+
+
+
 
 ## Setup
 
@@ -32,6 +50,12 @@ This agent allows you to query Azure resources in plain English using OpenAI's A
     ```
 
 ---
+
+### **Project Screenshot**
+
+   ```markdown
+   ![List Resource Groups](images/list%20resource%20groups.png)
+   ![List Key Vaults](images/list%20key%20vaults.png)
 
 ## License
 MIT License
