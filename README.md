@@ -5,7 +5,7 @@ This project allows you to interact with **Azure resources** using **plain Engli
 
 ## Features:
 - Use natural language to query **Azure resources**.
-- Integrates **OpenAI's Agent SDK** and **Google Gemini LLM** for natural language processing.
+- Used **Google Gemini LLM** for natural language processing.
 - Fetch **Azure resources** like Key Vaults and Resource Groups through **Azure SDK for Python**.
 - Runs via **CLI** and an interactive **Streamlit Web Interface**.
 
@@ -53,9 +53,8 @@ Before you begin, ensure you have the following installed:
 
 ### **Project Screenshot**
 
-   ```markdown
-   ![List Resource Groups](images/list%20resource%20groups.png)
-   ![List Key Vaults](images/list%20key%20vaults.png)
+![List Resource Groups](images/list-resource-groups.png)
+![List Key Vaults](images/list-key-vaults.png)
 
 ## License
 MIT License
