@@ -53,8 +53,8 @@ Before you begin, ensure you have the following installed:
 
 ### **Project Screenshot**
 
-![List Resource Groups](images/list-resource-groups.png)
-![List Key Vaults](images/list-key-vaults.png)
+![List Resource Groups](images/list%20resource%20groups.png)
+![List Key Vaults](images/list%20key%20vaults.png)
 
 ## License
 MIT License
