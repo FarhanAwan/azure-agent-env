@@ -1,0 +1,8 @@
+openai-agents-python
+google-generativeai
+azure-identity
+azure-mgmt-resource
+azure-mgmt-keyvault
+typer
+streamlit
+python-dotenv
